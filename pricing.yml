@@ -15,8 +15,8 @@ about:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-  generated: Wed Dec 18 03:54:05 2024
-  timestamp: 1734494045
+  generated: Thu Dec 19 03:54:32 2024
+  timestamp: 1734580472
   url: https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator
 compute:
   instance:
@@ -2677,14 +2677,14 @@ compute:
           month_3y: 9916.70684128
           month_spot: 15924.5159428
         europe-west8:
-          hour: 25.6621022835068
+          hour: 25.6621022835069
           hour_spot: 18.0718128470685
           month: 18733.33466696
           month_1y: 12994.92373824
           month_3y: 8227.58931256
           month_spot: 13192.42337836
         europe-west9:
-          hour: 25.6621022835069
+          hour: 25.6621022835068
           hour_spot: 18.0985251758356
           month: 18733.33466696
           month_1y: 12994.92373824
@@ -3208,7 +3208,7 @@ compute:
           month_spot: 28576.09088
         europe-west10:
           hour: 136.274618707726
-          hour_spot: 95.9162724635616
+          hour_spot: 95.9162724635617
           month: 99480.47165664
           month_1y: 69007.55385664
           month_3y: 43691.34000288
@@ -3229,7 +3229,7 @@ compute:
           month_spot: 51955.25096144
         europe-west3:
           hour: 104.43135208789
-          hour_spot: 73.5040160874521
+          hour_spot: 73.504016087452
           month: 76234.88702416
           month_1y: 52881.94432144
           month_3y: 33482.096556
@@ -3410,7 +3410,7 @@ compute:
           month_spot: 29984.69888
         europe-west3:
           hour: 109.60191208789
-          hour_spot: 76.4391680874521
+          hour_spot: 76.439168087452
           month: 80009.39582416
           month_1y: 55051.18896144
           month_3y: 34854.035196
