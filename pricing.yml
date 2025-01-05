@@ -15,8 +15,8 @@ about:
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-  generated: Sat Jan  4 03:51:40 2025
-  timestamp: 1735962700
+  generated: Sun Jan  5 03:51:36 2025
+  timestamp: 1736049096
   url: https://github.com/Cyclenerd/google-cloud-pricing-cost-calculator
 compute:
   instance:
@@ -1636,7 +1636,7 @@ compute:
           month_spot: 3726.114436
         asia-northeast1:
           hour: 13.0130213150685
-          hour_spot: 5.23751452054795
+          hour_spot: 5.23751452054794
           month: 9499.50556
           month_spot: 3823.3856
         asia-northeast2:
@@ -2223,7 +2223,7 @@ compute:
           month_spot: 13158.729744
         us-west3:
           hour: 48.7362405479452
-          hour_spot: 19.6082947945206
+          hour_spot: 19.6082947945205
           month: 35577.4556
           month_spot: 14314.0552
         us-west4:
@@ -2727,7 +2727,7 @@ compute:
           month_spot: 12540.02731804
         southamerica-east1:
           hour: 35.1138632064658
-          hour_spot: 24.7398122014794
+          hour_spot: 24.7398122014795
           month: 25633.12014072
           month_1y: 17781.83962788
           month_3y: 11257.83070124
@@ -2907,7 +2907,7 @@ compute:
           month_3y: 15619.53340448
           month_spot: 25081.85463608
         europe-southwest1:
-          hour: 52.2091007014795
+          hour: 52.2091007014794
           hour_spot: 36.7729669478356
           month: 38112.64351208
           month_1y: 26437.94816072
@@ -3054,7 +3054,7 @@ compute:
           month_3y: 15963.48823408
           month_spot: 14607.1208
         us-south1:
-          hour: 52.2091007014795
+          hour: 52.2091007014794
           hour_spot: 36.8054327012603
           month: 38112.64351208
           month_1y: 26437.94816072
@@ -3208,7 +3208,7 @@ compute:
           month_spot: 28576.09088
         europe-west10:
           hour: 136.274618707726
-          hour_spot: 95.9162724635617
+          hour_spot: 95.9162724635616
           month: 99480.47165664
           month_1y: 69007.55385664
           month_3y: 43691.34000288
@@ -3341,7 +3341,7 @@ compute:
           month_spot: 29214.2416
         us-south1:
           hour: 104.418201402959
-          hour_spot: 73.6108654025205
+          hour_spot: 73.6108654025206
           month: 76225.28702416
           month_1y: 52875.89632144
           month_3y: 33477.776556
